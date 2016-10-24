@@ -34,20 +34,5 @@ int main()
 	per kelias eilutes
 	rašomas taip */
 
-	/*
-
-	UŽDUOTIS
-
-	sukurti šiuos kintamuosius ir
-	priskirti jiems pasirinktas reikšmes:
-	- studento vardas, pavardė
-	- studento amžius
-	- studento ūgis
-	- dėstytojo komentaras apie studentą
-	- studento pažymių vidurkis
-	- studento įvertinimas raide
-	- ar studentas yra išlaikęs egzaminą?
-	*/
-
 	return 0;
 }

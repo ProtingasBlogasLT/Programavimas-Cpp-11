@@ -35,14 +35,5 @@ int main()
 	as@%j&&jsf##sjfj
 	*/
 
-	/*
-	
-	UŽDUOTIS
-
-	Sukurti tris vienodo tipo kintamuosius,
-	tik vieną kartą nurodant kintamojo tipą.
-	
-	*/
-
 	return 0;
 }

@@ -1,0 +1,4 @@
+﻿UŽDUOTIS
+
+Sukurti tris vienodo tipo kintamuosius,
+tik vieną kartą nurodant kintamojo tipą.
