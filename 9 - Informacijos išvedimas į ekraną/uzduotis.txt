@@ -1,0 +1,24 @@
+UŽDUOTIS
+
+Susikurti visus reikiamus kintamuosius.
+Į ekraną išvesti šių aritmetinių veiksmų rezultatus:
+10 + 10
+10 + 20
+9 * 3
+5 / 2
+2 / 5
+4 % 5
+5 / 5
+7 - 3
+6 * 4
+6 - 10
+
+Susikurkite šiuos kintamuosius ir priskirkite reikšmes:
+- studento vardas, pavardė
+- studento amžius
+
+Į ekraną išveskite taip suformatuotą informaciją:
+Studento vardas ir pavardė: ..... (... m.).
+
+Pavyzdys:
+Studento vardas ir pavardė: Petras Petriukas (22 m.).
