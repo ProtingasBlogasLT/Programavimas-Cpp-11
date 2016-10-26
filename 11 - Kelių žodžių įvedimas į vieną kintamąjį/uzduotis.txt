@@ -1,0 +1,4 @@
+UŽDUOTIS
+
+Leisti vartotojui įvesti sakinį į vieną
+string kintamąjį, šį sakinį išvesti į ekraną.

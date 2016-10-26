@@ -1,0 +1,19 @@
+UŽDUOTIS
+
+Sukurti du int tipo kintamuosius, vieną string tipo
+kintamąjį.
+
+Vartotojas į programą įveda du skaičius ir kokį
+nors žodį.
+
+P.S. Jeigu reikia kurti naujus kintamuosius,
+tačiau atsakymus galima iš karto išvesti į
+ekraną.
+
+Programa išveda:
+- šių skaičių sudėtį
+- antrąjį skaičių pakeltą kvadratu (dauginti iš savęs)
+- pirmąjį skaičių padalinus iš 5
+- atėmus pirmąjį skaičių iš antrojo
+- iš pirmojo skaičiaus atėmus antrąjį ir pridėjus 5
+- žmogaus įvestą žodį
