@@ -1,0 +1,16 @@
+UŽDUOTIS
+
+Susikurti visus reikiamus kintamuosius
+ir priskirti jiems norimas reikšmes.
+
+Sukurti šias sudėtingas if sąlygas:
+- ar pirmas skaičius didesnis už antrą skaičių
+ir yra mažesnis už 100
+- ar antras skaičius yra didesnis už 0 ir
+didesnis už pirmąjį skaičių
+- ar pirmas skaičius yra didesnis už antrąjį
+ir didesnis už trečiąjį skaičių arba teigiamas
+(didesnis už 0)
+- ar trečias skaičius patenka į rėžius [5-10]
+(>= ir <=) arba yra didesnis už pirmąjį skaičių
+arba yra didesnis už antrąjį skaičių

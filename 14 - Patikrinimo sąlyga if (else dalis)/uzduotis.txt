@@ -1,0 +1,7 @@
+UŽDUOTIS
+	 
+Palyginkite du žodžius tarpusavyje.
+Žodį esantį pagal abėcėlę pirmiau išveskite.
+Jei žodžiai vienodi, tuomet išveskite, kad
+žodžiai yra vienodi ir išveskite šį žodį.
+Panaudoti if, else if, else sąlygas.

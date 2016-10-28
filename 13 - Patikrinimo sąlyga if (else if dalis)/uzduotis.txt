@@ -1,0 +1,6 @@
+UŽDUOTIS
+
+Turite studento pažymį skaičiumi,
+pavyzdžiui, 7. Šį skaičių paversti
+į žodinį apibūdinimą, kurį išvesti į
+ekraną.
