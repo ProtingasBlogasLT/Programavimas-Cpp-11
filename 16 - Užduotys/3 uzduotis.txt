@@ -1,0 +1,17 @@
+﻿Suskaičiuoti kiek duonos kepalų kepykla sugebės iškepti per dieną. Bei suskaičiuoti kiek iš jų uždirbs pelno.
+
+Vartotojo įvedama informacija:
+- Duonos kepalui pagaminti reikalingas laikas minutėmis.
+- Kiek darbuotojas gali iškepti kepalų per valandą.
+- Kiek darbuotojų turi kepykla.
+- Vieno kepalo savikaina.
+- Vieno kepalo pardavimo kaina.
+
+Iš anksto žinoma informacija:
+- Darbo valandų per dieną 8 val.
+
+Suskaičiuoti kiek kepykla per vieną darbo dieną spės iškepti duonos kepalų.
+
+Apskaičiuoti visų kepalų savikainą, gautas pajamas pardavus ir iš to gauto pelno dalį.
+
+Visą apskaičiuotą informaciją išvesti į ekraną.
