@@ -1,0 +1,14 @@
+﻿Programa turi suskaičiuoti ar mokyklai užteks turimo biudžeto, kad nupirktų bibliotekai reikiamas trijų rūšių knygas.
+
+Vartotojo įvedama informacija:
+- turimas biudžetas, skirtas knygų pirkimui
+- pirmos rūšies knygų kaina
+- pirmos rūšies knygų kiekis
+- antros rūšies knygų kaina
+- antros rūšies knygų kiekis
+- trečios rūšies knygų kaina
+- trečios rūšies knygų kiekis
+
+Suskaičiuoti kiek pinigų prireiks norint įsigyti visas knygas ir atsakymą išvesti į ekraną.
+
+Ar biudžeto užtektų norint įsigyti visas šias knygas? Jei taip į ekraną išvesti teigiamą atsakymą ir kiek pinigų liktų nupirkus knygas. Jei ne, išvesti per kiek pinigų būtų viršytas biudžetas.

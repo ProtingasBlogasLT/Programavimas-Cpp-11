@@ -1,0 +1,13 @@
+﻿Programos tikslas paskaičiuoti kuris kelionės būdas būtų pigesnis darant ekskursiją. Ar visai grupei važiuoti visą atstumą nuomotu autobusu, ar 30 % kelionės atstumo įveikti vandeniu (su keltu).
+
+Vartotojo įvedama informacija:
+- Kelionės atstumas, km
+- Kiek litrų kuro autobusas išdegina per 100 km
+- Litro kaina, eur
+- Kelto kaina visai grupei
+
+Paskaičiuoti kiek kelionė kainuos jei visas atstumas bus važiuojamas tik su autobusu.
+
+Paskaičiuoti kiek kelionė kainuos jei 30 % kelionės atstumo bus įveikiama su keltu, o kita dalis atstumo su autobusu.
+
+Vartotojui išvesti abiejų būdų kainas į ekraną ir išvesti kuris būdas būtų pigesnis.
