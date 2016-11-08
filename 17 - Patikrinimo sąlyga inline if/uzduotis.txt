@@ -1,0 +1,10 @@
+﻿UŽDUOTIS
+
+Yra šie kintamieji:
+- bandelės kaina
+- turimi pinigai
+
+Jeigu bandelės kaina neviršija turimų pinigų tai
+iš pinigų atimti bandelės kainą.
+
+Turimus pinigus išvesti prieš ir po inline if.

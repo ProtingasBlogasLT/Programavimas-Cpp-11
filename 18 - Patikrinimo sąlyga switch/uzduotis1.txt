@@ -1,0 +1,18 @@
+﻿Padaryti, kad žmogus galėtų pasirinkti
+norimą punktą ir programa tą pasirinkimą
+išvestų į ekraną.
+
+Padarykite šiuos pasirinkimus vartotojui:
+1 - limonadas
+2 - arbata
+3 - kakava
+4 - kava
+5 - nieko
+
+Vartotojui įvedus pasirinkimą, jį išveskite į
+ekraną su prierašu "Jūs pasirinkote".
+
+Pavyzdžiui "Jūs pasirinkote kakavą."
+
+Vartotojui įvedus blogą pasirinkimą, išveskite
+į ekraną "blogai įvestas pasirinkimas".

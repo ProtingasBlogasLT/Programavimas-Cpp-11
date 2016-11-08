@@ -1,0 +1,11 @@
+Padaryti antra pasirinkima vartotojui.
+Programa turetu išvesti "Ar testi programos
+darba? (t/n)". Vartotojas iškart ivesti pasirinkta
+raide i char kintamaji.
+Šis kintamasis butu tikrinamas per switch salyga.
+Jei 't' - išvestu "deja nebeturim ka daugiau rodyti",
+jei 'n'  išvestu "programa baige
+darba".
+
+Vartotojui ivedus bloga pasirinkima, išveskite
+i ekrana "blogai ivestas pasirinkimas".
