@@ -1,0 +1,12 @@
+Parašyti for ciklą, kuris išvestų kas trečią skaičių, pradedant nuo 0 iki 20.
+
+Išvedimo pavyzdys: 0, 3, 6, 9, 12, 15, 18
+
+Programą parašyti dviem būdais.
+
+Pirmasis būdas, kai ciklas eina pro kiekvieną skaičių (0, 1, 2, 3, 4, 5...)
+ir cikle su if sąlyga tikrina ar tas skaičius dalinasi iš 3, jei taip tada
+išveda į ekraną.
+
+Antrasis būdas, kai pats ciklas eina pro kas trečią skaičių (0, 3, 6, 9..)
+ir kiekvieną kartą išveda kokį skaičių turi.

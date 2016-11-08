@@ -1,0 +1,19 @@
+Vartotojas turi įvesti rėžius, t.y. jų pradžią ir pabaigą.
+
+If sąlyga tikrina ar pradžios skaičius yra didesnis už pabaigos skaičių,
+jei taip išveda į ekraną "blogi rėžiai". Jeigu viskas gerai (else dalyje)
+yra for ciklas, kuris sukasi nuo žmogaus duotos pradžios, iki žmogaus
+duotos pabaigos.
+
+Į ekraną išveda dabartinį skaičių, tarpą, jo kvadratą ir tada naują eilutę.
+
+Pavyzdys kaip atrodytų programos vykdymas:
+
+iveskite pradzia: 2
+iveskite pabaiga: 8
+2 4
+3 9
+4 16
+5 25
+6 36
+7 49
