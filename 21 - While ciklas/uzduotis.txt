@@ -1,0 +1,9 @@
+UŽDUOTIS
+
+Leiskite padaryti vartotojui vieną iš dviejų pasirinkimų.
+
+Pavyzdžiui:
+"Pasirinkite 1 jei laptopas, 2 jei stacionaras".
+
+Kol žmogus nepasirinks 1 arba 2 varianto tol jam išveskite,
+kad įvyko klaida ir jam liepkite pasirinkti per naują.
