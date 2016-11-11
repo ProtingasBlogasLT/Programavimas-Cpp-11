@@ -1,0 +1,3 @@
+﻿UŽDUOTIS
+
+Perdarykite praeitos pamokos užduotį į do while.
