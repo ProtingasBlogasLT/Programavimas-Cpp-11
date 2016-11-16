@@ -1,5 +1,9 @@
 Sukurti simbolių (char) masyvą, kuriame būtų šie duomenys:
-'b','y','u','o','t','e','u'
+'a','y','m','o','t','e','u'
+
+Pakeiskite pirmosios raidės (a) reikšmę į b raidę.
+
+Pakeiskite trečiosios raidės (m) reikšmę į u raidę.
 
 Iš masyvo išvesti vieną po kitos raides taip, kad ekrane
 gautųsi žodis "youtube". Turi būti panaudotos visos raidės.
