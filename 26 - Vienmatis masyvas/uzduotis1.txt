@@ -1,0 +1,16 @@
+Sukurti sveikųjų skaičių masyvą, kuriame būtų šie duomenys:
+5, 7, 8, 3, 5, 0, 7
+
+Į ekraną išvesti pirmą, vidurinį ir paskutinį skaičius iš
+masyvo.
+
+Apskaičiuoti šių trijų išvestų skaičių sumą, atsakymą
+išsaugoti į naują int kintamąjį. Šį kintamąjį išvesti
+į ekraną.
+
+Pakeisti paskutinio masyvo nario reikšmę į 10.
+
+Perskaičiuoti sumą naudojant tuos pačius 3 nurodytus skaičius
+iš masyvo.
+
+Atsakymą išvesti į ekraną.

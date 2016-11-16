@@ -1,0 +1,9 @@
+Sukurti simbolių (char) masyvą, kuriame būtų šie duomenys:
+'b','y','u','o','t','e','u'
+
+Iš masyvo išvesti vieną po kitos raides taip, kad ekrane
+gautųsi žodis "youtube". Turi būti panaudotos visos raidės.
+
+Pavyzdys:
+cout << charMasyvoPavadinimas[1] << charMasyvoPavadinimas[3];
+Išves: yo
