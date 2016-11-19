@@ -1,0 +1,10 @@
+Sukurti sveikųjų skaičių masyvą ir skaičius
+iš šio masyvo išvesti 2 būdais (formatavimais).
+
+Pirmas būdas: dėti brūkšniukus prieš kiekvieną
+skaičių. Pavzyzdžiui:
+- 21 - 85 - 54 - 47 - 35
+
+Antras būdas: kiekvieną skaičių apskliausti.
+Pavyzdžiui:
+(54)(40)(39)(450)(55)

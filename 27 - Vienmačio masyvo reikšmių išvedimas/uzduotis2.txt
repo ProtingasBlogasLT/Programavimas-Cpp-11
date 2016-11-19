@@ -1,0 +1,13 @@
+Sukurti string masyvą. Jį išvesti taip, kad
+pirmi du žodžiai būtų vienoje eilutėje, o visi
+kiti būtų atskirose eilutėse. Pavyzdžiui:
+žodis žodis
+žodis
+žodis
+žodis
+
+Tai galima pasiekti pirmus du žodžius išvedant
+dar ne cikle, o prieš jį, per paprastą cout
+ir nurodant vietą, kurią išvesti. Toliau, sukti
+ciklą jau nuo trečio masyvo nario ir likusius
+žodžius išvedinėti cikle.
