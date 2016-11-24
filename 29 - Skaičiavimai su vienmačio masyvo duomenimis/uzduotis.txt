@@ -1,0 +1,12 @@
+Sukurkite double tipo masyvą, kuriame būtų saugomi
+studentų ūgiai metrais.
+
+Raskite ūgių vidurkį.
+
+Raskite žemiausi studento ūgį.
+
+Raskite aukščiausio studento ūgį.
+
+Raskite ūgių sumą.
+
+Raskite vidurkį ūgių, kurie yra didesni nei vidurkis.

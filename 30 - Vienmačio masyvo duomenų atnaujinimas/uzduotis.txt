@@ -1,0 +1,15 @@
+Sukurkite int tipo masyvą ir į jį norimu
+būdu įrašykite duomenis.
+
+Leiskite vartotojui pakeisti pasirinktą skaičių.
+Šį veiksmą leiskite kartoti tiek kartų kiek
+vartotojas nori.
+
+Pavyzdžiui:
+masyvas - [14][25][35][50]
+žmogus pasirenka pakeisti pirmą skaičių į 20,
+todėl masyvas gaunasi - [20][25][35][50]
+tuomet žmogus nori pakeisti trečią skaičių į 80
+masyvas dabar - [20][25][80][50]
+ir t.t., kol vartotojas pasako, kad nebenori nieko
+daugiau keisti.

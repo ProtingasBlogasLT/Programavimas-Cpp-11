@@ -1,0 +1,11 @@
+Sukurkite string tipo masyvą.
+
+Į masyvą liepkite vartotojui įvesti pasirinktą
+kiekį žodžių.
+
+Pakeiskite pirmą masyvo žodį kitu žodžiu.
+
+Pavyzdžiui, po vartotojo įvedimo turite šį masyvą:
+[vilkas][lape][jautis]
+Programoje pakeitus pirmą žodį gautųsi:
+[pirmas][lape][jautis]

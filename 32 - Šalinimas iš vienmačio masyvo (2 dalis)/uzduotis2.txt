@@ -1,0 +1,4 @@
+Sukurkite int tipo masyvą.
+
+Iš šio masyvo pašalinkite visus skaičius, kurie
+yra mažesni už masyvo skaičių vidurkį.

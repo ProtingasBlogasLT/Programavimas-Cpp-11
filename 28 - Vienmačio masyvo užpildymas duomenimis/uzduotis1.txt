@@ -1,0 +1,17 @@
+Sukurkite sveikųjų skaičių masyvą, kuris būtų tuščias.
+
+Liepkite vartotojui įvesti 10 skaičių iš eilės, šie
+skaičiai turi būti įrašyti į masyvą.
+
+Vėliau leiskite vartotojui kiek skaičių jis dar nori
+įrašyti į masyvą (kiek papildyti). Leiskite vartotojui
+papildyti masyvą su papildomais skaičiais.
+
+Pavyzdžiui, pradinis masyvas:
+[]
+Vartotojas įveda pirmus 10 skaičių:
+[14][6][89][55][67][85][4][24][95][35]
+Vartotojas pasirenka, kad nori masyvą papildyti penkiais
+naujais skaičiais, todėl šie skaičiai pasipildo masyvo
+gale:
+[14][6][89][55][67][85][4][24][95][35][65][7][350][18][20]

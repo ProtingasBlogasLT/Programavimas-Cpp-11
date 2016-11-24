@@ -1,0 +1,11 @@
+Sukurkite int tipo masyvą.
+
+Iš šio masyvo ištrinkite pirmą skaičių, kuris
+neatitinka duotos sąlygos.
+
+Sąlygą susigalvokite patys (pvz.: skaičius didesnis už 5,
+skaičius lygus arba mažiau už 0 ir pan.).
+
+Jums tikriausiai pirma reikės eiti per masyvą
+ir surasti kurioje vietoje yra skaičius, kurį
+reiktų pašalinti ir tik tada atlikti šalinimą.

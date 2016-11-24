@@ -1,0 +1,3 @@
+Sukurkite char tipo masyvą.
+
+Iš šio masyvo pašalinkite visas balses.
