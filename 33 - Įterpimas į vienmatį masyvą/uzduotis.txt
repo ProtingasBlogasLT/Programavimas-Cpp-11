@@ -1,0 +1,6 @@
+Šiuo metu pavyzdinė programa vartotojui leidžia pasirinkti
+vieną į kurią įterpti naują skaičių, be pasirinkti skaičių,
+kurį nori įterpti.
+
+Pataisykite programą taip, kad vartotojas tokiu būdu galėtų
+pasirinkti įterpti daugiau nei vieną skaičių.
