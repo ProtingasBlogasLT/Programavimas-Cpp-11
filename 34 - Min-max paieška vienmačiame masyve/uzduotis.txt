@@ -1,0 +1,9 @@
+Susikurkite du skaičių masyvus.
+
+Iš pirmo masyvo raskite mažiausią skaičių.
+
+Iš antro masyvo raskite didžiausią skaičių.
+
+Patikrinkite kuris rastas atsakymas yra didesnis
+ir išveskite į ekraną kurio masyvo tai skaičius,
+bei jo buvimo vietą indekse.
