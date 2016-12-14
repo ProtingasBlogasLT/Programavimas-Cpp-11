@@ -1,0 +1,15 @@
+Susikurkite tris string kintamuosius.
+
+Vartotojui liepkite įvesti 5 ar daugiau žodžių.
+
+Su cin pagalba gaukite pirmų dviejų žodžių reikšmes į
+pirmus du string kintamuosius.
+
+Tuomet padarykite taip, kad programa ignoruotų tuščius
+tarpus arba eilutes.
+
+Galiausiai panaudokite getline, su kuriuo eitų nuskaityti
+visus likusius žodžius eilutėje.
+
+Išveskite į ekraną visų kintamųjų reikšmes atskirose eilutėse,
+prieš tai nurodant kelintas string kintamasis yra išvedamas.
