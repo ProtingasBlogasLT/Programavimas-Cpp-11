@@ -1,0 +1,24 @@
+Sukurkite string kintamąjį į kurį vartotojas
+įvestų savo pasirinktą žodį.
+
+Išveskite kiekvieną string kintamojo raidę vis
+naujoje eilutėje.
+
+Taip pat, po išvedimo praleiskite eilutę ir
+paskutinę raidę spausdinkite 5 kartus toje pačioje
+eilutėje, kiekvieną kartą po raidės dedant kablelį
+ir tarpą.
+
+Pavyzdys kaip gali atrodyti rezultatai, kai vartotojas
+įveda žodį "šuo":
+š
+u
+o
+
+o o o o o
+
+Pabandykite tą patį atlikti su char masyvu, tačiau
+programa raidžių kiekio pati nesugebės nustatyti, todėl
+jums tikriausiai prireiks, kad vartotojas turėtų
+pats nurodyti kiek raidžių yra char masyve. Ar taip
+yra patogu vartotojui?
