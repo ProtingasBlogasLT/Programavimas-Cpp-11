@@ -1,0 +1,5 @@
+Sukurkite string kintamąjį ir jam priskirkite
+norimą teksto eilutę.
+
+Išbandykite daugiau raidžių nustatinėjimo funkcijų
+nei buvo parodyta pavyzdyje, pavyzdžiui isalpha().

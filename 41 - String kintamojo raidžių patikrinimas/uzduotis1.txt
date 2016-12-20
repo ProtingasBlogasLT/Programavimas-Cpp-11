@@ -1,0 +1,8 @@
+Susikurkite du string kintamuosius ir jiems
+priskirkite norimus teksto sakinius.
+
+Iš vieno string išveskite visas didžiąsias raides,
+o iš kito - visas mažąsias raides.
+
+Vienos string kintamojo raides rašykite vienoje
+eilutėje, raides atskirdami kableliu.
