@@ -1,0 +1,6 @@
+Sukurkite string kintamąjį ir priskirkite jam
+reikšmę - sakinį iš kelių žodžių.
+
+Išskaidykite kelis pasirinktus šio sakinio žodžius
+į kitus atskirus string kintamuosius. Išbandykite
+kelis skirtingus kopijavimo būdus.
