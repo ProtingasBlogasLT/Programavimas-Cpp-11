@@ -1,0 +1,4 @@
+mano tekstas á failà
+dar viena eilute
+[5] [4] [5] [4] [7] [5] [8] 
+failo papildymas
